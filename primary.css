@@ -1,0 +1,138 @@
+﻿body
+{
+    font-family:'Comic Sans MS';
+    margin-left:100px;
+    margin-right:100px;
+}
+.imp {
+    margin: 0px;
+    color: red;
+}
+.subt {
+    margin: 0px;
+}
+label {
+    margin: 0px;
+}
+.c1 {
+    margin-left: 450px;
+}
+.valid1 {
+    font-size: 12px;
+    margin: 1px;
+    overflow:auto;
+    width:150px;
+}
+.tableh{
+    height:50px;
+}
+footer {
+    height: 100px;
+    width: 100%;
+    background-color: darkblue;
+}
+.btn-primary {
+    background-color: #ffeb3a;
+    color:black;
+    border:none;
+}
+    .btn-primary:hover {
+        background-color: #ffdd00;
+        color:black;
+    }
+.form-control {  
+    margin: 0px;
+    
+}
+   
+.header{
+    color:darkblue;
+    margin-left:450px;
+}
+.navigation{
+    background-color:darkblue;
+    color:white;
+    height:100px;
+}
+.footer {
+    width: 100%;
+    height: 100px;
+    background-color: #ffeb3a;
+}
+
+.footer-align {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #ffeb3a;
+}
+
+li {
+    float: right;
+}
+ li .link1, .dropbtn1 {
+        display: inline-block;
+        color: black;
+        text-align: center;
+        padding: 14px;
+        text-decoration: none;
+        float: right;
+ }
+
+ li .link1:hover, .dropbtn1:hover .dropbtn1 {
+            background-color: #ffdd00;
+
+ }
+
+ li.dropdown1 {
+        display: inline-block;
+
+}
+
+.dropdown-content1 {
+    display: none;
+    position: absolute;
+    float: left;
+    margin-top: 40px;
+    background-color: #f9f9f9;
+    min-width: 100px;
+    box-shadow: 0px,8px,16px,0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content1 .link1 {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+
+}
+.dropdown-content1 .link1:hover {
+     background-color: #f1f1f1;
+}
+.dropdown1:hover .dropdown-content1 {
+    display: block;
+}
+.her {
+    height: 200px;
+    width: 100%;
+    background-image: url("assets/images/banner.JPG");
+    background-size: 100% 200px;
+    background-repeat: no-repeat;
+    //position:relative;
+    // background-position:center;
+}
+.sucessreg
+{
+    margin-left:400px;
+    font-size:30px;
+    background-color:lightblue;
+}
+
+

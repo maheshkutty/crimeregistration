@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/appdata/picture/P1.jpg</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/appdata/picture/P2.jpg</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/appdata/picture/P3.jpg</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/appdata/picture/P4.jpg</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/appdata/picture/police5.jpg</ImageUrl>
+  </Ad>
+</Advertisements>
+
